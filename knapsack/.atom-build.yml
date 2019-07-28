@@ -1,1 +1,1 @@
-cmd: python3 solver1.py
+cmd: python3 solver1.py data/ks_lecture_dp_1
